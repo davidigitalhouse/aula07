@@ -1,0 +1,20 @@
+#cabecalho {
+    height: 150px;
+    background-color: #D5CFA7;
+    font-family: 'Mate SC', serif;
+}
+
+#conteudo {
+    height: 800px;
+    background-color: #797066;
+    font-family: 'Dancing Script', cursive;
+}
+
+#rodape {
+    height: 200px;
+    background-color: #3E362F;
+}
+
+.icones {
+    height: 100px;
+}
